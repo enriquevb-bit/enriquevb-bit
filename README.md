@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 Currently working on: Scalable backend services with Java & Spring.<br>🌱 Learning: Docker orchestration and CI/CD pipelines.<br>📫 Reach me at: enriquevarelabouza@gmail.com</p>
+<p align="left">🔭 <strong>Currently working on:</strong> Scalable backend services with Java & Spring.<br>🌱 <strong>Learning:</strong> Docker orchestration and CI/CD pipelines.<br>📫 <strong>Reach me at:</strong> enriquevarelabouza@gmail.com</p>
 
 ###
 
